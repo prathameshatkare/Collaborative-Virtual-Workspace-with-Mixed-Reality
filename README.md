@@ -1,5 +1,3 @@
-# Project2
-
 Collaborative Virtual Workspace with Mixed Reality
 This project is a Collaborative Virtual Workspace built using Mixed Reality (MR) technology, aimed at creating an immersive environment for team collaboration. The platform supports real-time communication, virtual whiteboards, and 3D model interaction, enhancing productivity for remote teams.
 
