@@ -57,7 +57,7 @@ This platform is designed to simulate an interactive, shared workspace in a 3D v
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/prathameshatkare/Collaborative-Virtual-Workspace-with-Mixed-Reality.git
    cd yourrepository
    ```
 
